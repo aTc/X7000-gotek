@@ -1,4 +1,5 @@
 // AKAI X7000 QuickDisk gotek adapter 
+// https://github.com/aTc/X7000-gotek
 
 $fn = 50;
 
